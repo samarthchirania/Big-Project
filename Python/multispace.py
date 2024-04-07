@@ -65,7 +65,7 @@ def constant_div_2(n_2, steps_2):
     return overall_max
 
 
-# constant_div_2(n, steps)
+constant_div_2(n, steps)
 
 n_s = [5, 10, 20, 40, 50, 80, 100, 150, 200, 500, 800, 1000]
 steps = 200_000
